@@ -1,1 +1,1 @@
-print("line1/nline2/nline3")
+print("line1\nline2\nline3")
